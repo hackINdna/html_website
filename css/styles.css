@@ -13,6 +13,17 @@ hr {
 h1 {
     color: #11999E;
 }
+h1:hover {
+    color: red;
+}
+
+h2:hover {
+    color: red;
+}
+
+img:hover {
+    background-color: gold;
+}
 
 h2 {
     color: #11999E;
@@ -42,4 +53,20 @@ img {
     
     border-style: dotted;
     border-width: 10px;
+}
+
+.number:hover {
+    color: black;
+}
+
+.email:hover {
+    color: black;
+}
+
+.number {
+    color: red;
+}
+
+.email {
+    color: red;
 }
