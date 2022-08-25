@@ -1,0 +1,45 @@
+body {
+    background-color: #E4F9F5;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: #11999E;
+    border-width: 5px;
+}
+
+h1 {
+    color: #11999E;
+}
+
+h2 {
+    color: #11999E;
+}
+
+p {
+    color: #40514E;
+}
+
+table {
+    color: #40514E;
+}
+
+a {
+    color: #30E3CA;
+}
+
+ul {
+    color: #40514E;
+}
+
+strong {
+    color: #40514E;
+}
+
+img {
+    
+    border-style: dotted;
+    border-width: 10px;
+}
